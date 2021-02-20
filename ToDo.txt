@@ -1,0 +1,13 @@
+End Goal:
+  - Track a person or things while moving in a room
+
+Current Tasks:
+  - Program to measure distance of any 3 points in a 2d space
+      + Use turtle(?) to graph the positions and vectors
+
+  - Add 3rd dimension and matrices
+    + Add second origin (camera) and average measurements
+
+  - Visual recognition of points in sample
+
+  - Real world recognition 
